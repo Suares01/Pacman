@@ -1,0 +1,4 @@
+repository "PacmanGame@projetos_faculdade@cloud"
+  path "/"
+    br "/main"
+    co "/main"
